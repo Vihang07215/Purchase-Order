@@ -84,7 +84,6 @@ The platform will require a relational database to manage Purchase Order and Ite
 | dod | Date |
 | remarks_detail | String |
 
-<h2 align="left"> Use Cases</h2>
 
 ## Use Cases
 
